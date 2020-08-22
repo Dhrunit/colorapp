@@ -83,6 +83,7 @@ class NewPaletteForm extends Component {
 			currentColor: 'teal',
 			newName: '',
 			colors: [{ color: 'blue', name: 'blue' }],
+			newPaletteName: '',
 		};
 		this.updateCurrentColor = this.updateCurrentColor.bind(this);
 		this.addNewColor = this.addNewColor.bind(this);
@@ -156,6 +157,10 @@ class NewPaletteForm extends Component {
 						<Typography variant='h6' color='inherit' noWrap>
 							Persistent drawer
 						</Typography>
+						<TextValidator
+							label='Palette Name'
+							value={this.state.newPaletteName}
+						/>
 						<Button
 							variant='contained'
 							color='primary'
