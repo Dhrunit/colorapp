@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/colorpalettedeploy/static/css/main.4d95d357.chunk.css",
+    "main.js": "/colorpalettedeploy/static/js/main.09293eaf.chunk.js",
+    "main.js.map": "/colorpalettedeploy/static/js/main.09293eaf.chunk.js.map",
+    "runtime-main.js": "/colorpalettedeploy/static/js/runtime-main.3da847de.js",
+    "runtime-main.js.map": "/colorpalettedeploy/static/js/runtime-main.3da847de.js.map",
+    "static/css/2.0da342d8.chunk.css": "/colorpalettedeploy/static/css/2.0da342d8.chunk.css",
+    "static/js/2.1cc089d3.chunk.js": "/colorpalettedeploy/static/js/2.1cc089d3.chunk.js",
+    "static/js/2.1cc089d3.chunk.js.map": "/colorpalettedeploy/static/js/2.1cc089d3.chunk.js.map",
+    "index.html": "/colorpalettedeploy/index.html",
+    "precache-manifest.b0827959eae82d468445ec719b341511.js": "/colorpalettedeploy/precache-manifest.b0827959eae82d468445ec719b341511.js",
+    "service-worker.js": "/colorpalettedeploy/service-worker.js",
+    "static/css/2.0da342d8.chunk.css.map": "/colorpalettedeploy/static/css/2.0da342d8.chunk.css.map",
+    "static/css/main.4d95d357.chunk.css.map": "/colorpalettedeploy/static/css/main.4d95d357.chunk.css.map",
+    "static/js/2.1cc089d3.chunk.js.LICENSE.txt": "/colorpalettedeploy/static/js/2.1cc089d3.chunk.js.LICENSE.txt",
+    "static/media/bg.svg": "/colorpalettedeploy/static/media/bg.929903ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3da847de.js",
+    "static/css/2.0da342d8.chunk.css",
+    "static/js/2.1cc089d3.chunk.js",
+    "static/css/main.4d95d357.chunk.css",
+    "static/js/main.09293eaf.chunk.js"
+  ]
+}
